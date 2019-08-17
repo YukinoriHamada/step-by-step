@@ -1,5 +1,5 @@
 ///練習１
-/*
+
 let assets = prompt('資産を数字で入力してください');
 assets = parseFloat(assets);
 if (assets >= 10000) {
@@ -96,7 +96,7 @@ switch (destiny) {
         alert('最悪です。');
 
 }
-*/
+
 //練習6
 
 
